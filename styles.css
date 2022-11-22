@@ -1,31 +1,15 @@
-body{
-    font-family: Arial, Helvetica, sans-serif;
-}
-.battle{
-    background-color: black;
-    color: white;
-}
-.ui{
-    background-color: white;
-    color: black;
-    justify-content: center;
-}
-
-.heros{
+.monster{
+    display: flex;
     justify-content: space-around;
-    flex-wrap: nowrap;
-    flex-direction: row;
+    color: white;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.Mage{
-    background-color: blue;
-}
-.Guerrier{
-    background-color: red;
-}
-.Archer{
-    background-color: greenyellow;
-}
-.Voleur{
-    background-color: blueviolet;
+.heroes{
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    background-color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
