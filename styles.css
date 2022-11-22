@@ -8,4 +8,24 @@ body{
 .ui{
     background-color: white;
     color: black;
+    justify-content: center;
+}
+
+.heros{
+    justify-content: space-around;
+    flex-wrap: nowrap;
+    flex-direction: row;
+}
+
+.Mage{
+    background-color: blue;
+}
+.Guerrier{
+    background-color: red;
+}
+.Archer{
+    background-color: greenyellow;
+}
+.Voleur{
+    background-color: blueviolet;
 }
