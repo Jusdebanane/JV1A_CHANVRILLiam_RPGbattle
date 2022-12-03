@@ -1,4 +1,13 @@
-.action{
+.monstre{
+    color: red;
+}
+
+.bouttons{
+    color: white;
+    background-color: black;
+}
+
+.actions{
     color: white;
     background-color: black;
 }
