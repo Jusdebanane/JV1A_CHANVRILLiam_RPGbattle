@@ -1,13 +1,25 @@
-.monstre{
-    color: red;
+champs_de_bataille{
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-around;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.bouttons{
-    color: white;
-    background-color: black;
+heros{
+    display: flex;
+    flex-direction: column;
 }
 
-.actions{
-    color: white;
-    background-color: black;
+monstres{
+    display: flex;
+    flex-direction: column;
+}
+
+ui{
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: flex-start;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
